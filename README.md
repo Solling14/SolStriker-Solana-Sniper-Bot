@@ -1,7 +1,7 @@
 # SolStriker Sniper Bot
 
 **SolStriker Token Sniper Bot** that listens to new SolStriker pools and buys tokens for a fixed amount in SOL.
-Depending on the speed of the RPC node, the purchase usually happens before the token is available on SolStriker UI for swapping.
+Depending on the speed of the RPC node, the purchase usually happens before the token is available on SolStriker UI for swapping!
 
 
 Website: `https://solstriker.com/`
